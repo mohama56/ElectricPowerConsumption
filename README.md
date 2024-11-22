@@ -63,5 +63,4 @@ Output visualizations will be saved as .png files.
 ## 📝 Acknowledgments
 This project is based on publicly available electric power consumption data. Special thanks to [source/organization] (if applicable).
 
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
